@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+《袁世凯传》阅读活动感想记录    
+内容摘要：本书主要讲述了清末重臣袁世凯的生平事迹，并多角度分析其个人特点与历史影响。袁世凯纵横捭阖两时代，既是清朝重臣，又是民国元首，是中国近代化变革的参与者和见证者。袁世凯青年时期是个不折不扣的纨绔子弟，科考失败，弃文从武。后投靠吴长庆，攀附李鸿章，巴结荣禄，取悦西太后，建立军阀统治，同时还不忘在维新派身上下赌注……他工于心计，长袖善舞，终于位极人臣。民国初始，又攘夺了民国大总统的职位，进而称帝建元。
+关键词：袁世凯，北洋军阀，民主革命，帝国主义，半封建半殖民地社会
+                           正文
+目的：通过深入了解清末民初重要人物袁世凯，窥视中国近代国情，在时代背景中感受民主与封建的冲突，体会民主国家之来之不易。
+形式与过程：阅读《袁世凯传》及相关评论，查阅中国近代相关资料
+结果（读后感）：
+自小对袁世凯的印象大概就是中国近代历史的罪人。为了个人利益与权势打压维新派，导致戊戌政变失败；签订 “二十一条”等丧权辱国的条约，致使中国走向半封建半殖民地社会，国人受尽列强剥削；最后他改共和为君主立宪制（实则为一人独大的专制）则是他一生最大的污点，一力强化自己的权势严重阻碍了中国近代化进程。但在阅读此书后，袁世凯的形象却复杂了许多。
+袁世凯字慰亭，号容庵，出生于一个清朝望族，祖辈都是在清政府里为官，用现在的话说袁世凯就是一个十足的官二代，在此影响下袁世凯从小性格便是我行我素，放荡自如，即使其叔父对其是严加管教，让其专心学习，然而他却对书本不感兴趣，参加科举也与大多数文人一样落榜了。袁世凯真正在历史中崭露头角是在镇压朝鲜的兵变中，其严酷的作风给上层官员留下了一个很好的映像，在去朝鲜之前就深受军机大臣李鸿章的赏识，在平定朝鲜兵变时袁世凯确实充分展示出了他的军事才首先早年的时候他在朝鲜强势的反抗日本的侵略，维护朝鲜的稳定。而后袁世凯积极参政， 在清末时期的政治文化发展过程中也起到了一定的贡献，他参与并且主导了科举制度的废除，促进了中国新式人才选拔制度的诞生，在一定程度上推动了中国政治的近代化。他小站练兵也使得中国陆军的近代化进程大大加速，提升了清末军队的作战能力，修建了中国的铁路并且建立了中国第一支警察部队。同时迫使清帝和平退位，避免了大规模的战斗，促进了中国共和的发展。他在位时期反对西藏独立，维护了主权完整，并且大力发展近现代工业。可以说在军事、政治、经济、领土完整上都是功劳不小。
+假如生在古代封建社会，袁世凯也许是一名名扬天下的枭雄。然而历史却偏偏让他生在了清末民初，这个中国历史的变革期。这一时期，民主与专制对碰，工业与农业交织，新思想猛烈冲击着纲常伦理。不同于古时的帝王，袁世凯的强悍与集权能力反而成了历史的阻碍。在这个历史的岔路口，他也许部分意识到了新时代的来临，因此他加强民族工业、修建铁路、建立警察部队；然而完全民主化的思想对他以及大部分的统治阶级来说太难接受，以致仍是走错了路。为了讨好洋人、保护山东安宁，以残酷的手段镇压义和团，杀死团员千万；为了自己个人利益出卖国家主权与日本签订二十一条，丧权辱国；背弃与孙中山的不称帝的誓言，复辟帝制，做起了皇帝梦。他空有枭雄手段，缺少了些英雄气概，将个人利益建立在国家乃至民族利益之上，差点使整个中华民族落入列强魔掌。1915年12年，袁世凯篡夺革命果实，推翻共和，宣布称帝，改国号为中华帝国，建元洪宪。此番举措遭致各界的反对，讨伐声此起彼伏， 袁世凯从此之后，便无一日安稳日子可过，外部日本侵华意图愈甚，威逼签订一系列丧权辱国的条约，内部以蔡锷段祺瑞的反袁势力日益壮大，之后引发的护国运动，逼迫袁世凯在称帝83天后宣布废除帝制，成为中国历史上最短命的王朝。同年袁世凯因尿毒症不治而亡。一代枭雄就此落幕，留给后人的是一个颇有雏形却仍千疮百孔的“民主制度”。
+功过相交，成败夹杂，《袁世凯传》描绘了一个有血有肉的枭雄——袁世凯，以及波澜壮阔的中国近代史画面，教会了我客观、辩证、多角度地看待历史人物，让我对历史越发充满兴趣。
+对策：
+1.	正视历史。用一颗平常心去看待历史事件、欣赏历史。历史所载都是旧东西，但怎样记载、怎样看待旧问题，却反映着当代人们的思想与立场。我们是从历史中走来。历史影响着我们，也在某种程度上支配着我们。
+2.	读史使人明鉴。历史的变迁有其偶然性，在偶然的历史夹缝中诞生了雨多令人敬仰的英雄，他们的精神成为后人的动力；历史也是必然的，大大小小的历史事件中的关联在种种蛛丝马迹中可见一斑，我们可以从中汲取养分，为今天以及更好的明天服务。
+3.	勿忘历史，振兴中华。中国近代史是一部屈辱史、血汗史、自强史。奋发图强、后来居上、顺应时代的发展，在夹缝中求生存，在逆境中寻出路，中华民族自强不息地精神激励了一代又一代青年。
 
-You can use the [editor on GitHub](https://github.com/renpiaomiao/renpiaomiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renpiaomiao/renpiaomiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
